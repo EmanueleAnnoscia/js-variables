@@ -1,7 +1,7 @@
 // 1. Dichiarazione di variabili
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
-const name = Emanuele
+const name = "Emanuele" ;
 console.log(name);
 
 // 2. Tipi primitivi
@@ -27,5 +27,5 @@ console.log(fullName); // Output: "Jane Smith"
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
-const numberOfLettersInAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const numberOfLettersInAlphabet = alphabet.length;
 console.log(numberOfLettersInAlphabet); // Output: 26
